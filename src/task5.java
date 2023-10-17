@@ -26,7 +26,7 @@ public class task5 {
         System.out.printf("Product cost(gross) after multiplication(10 000): %.5f %n",product_cost_gross_mul);
         BigDecimal product_cost_result = product_cost_gross_mul.divide(valueOf(1.23));
         System.out.printf("Product cost(net) after multiplication(10 000): %.5f %n",product_cost_result);
-        //Last output: Product cost(net) after multiplication(10 000): 99900.0000000000021316282072803005576133728027343750000
+        // Last output: Product cost(net) after multiplication(10 000): 99900.0000000000021316282072803005576133728027343750000
         System.out.println("----------------------------------------------------\n");
 
         System.out.println("----------------------------------------------------");
